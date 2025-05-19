@@ -4,3 +4,5 @@
 [Отчёт по практике]()
 
 [Инвариантное задание 1.1](https://github.com/leontevanna/NIR2sem/blob/main/%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B0%20%D0%90%D0%92_%D0%9D%D0%98%D0%A0_%D0%98%D0%A1%D0%A01_1.pdf)
+[Инвариантное задание 1.2](https://github.com/leontevanna/NIR2sem/blob/main/%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B0%20%D0%90%D0%92_%D0%9D%D0%98%D0%A0_%D0%98%D0%A1%D0%A01_2.pdf)
+[Вариативное задание 2.1](https://github.com/leontevanna/NIR2sem/blob/main/%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B0%20%D0%90%D0%92_%D0%9D%D0%98%D0%A0_%D0%92%D0%A1%D0%A02_1.pdf)
